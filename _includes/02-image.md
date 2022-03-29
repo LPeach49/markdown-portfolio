@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Philadelphia Eagles Logo](https://1000logos.net/wp-content/uploads/2017/05/Philadelphia-Eagles-Logo.png)
